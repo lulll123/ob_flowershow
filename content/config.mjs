@@ -1,5 +1,4 @@
 const config = {
-  showSidebar: true,
   title: "My Awesome Blog",
   description: "This is my awesome blog built with Flowershow",
   author: "John",
